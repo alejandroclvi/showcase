@@ -1,0 +1,6 @@
+module Pods_taskler_tasklerTests {
+  umbrella header "Pods-taskler-tasklerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
